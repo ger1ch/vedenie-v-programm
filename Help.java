@@ -66,3 +66,10 @@ class Help {
 	}
 
 }
+fatal: не удалось выполнить автоопределение адреса электронной почты (получено «student@alexander-VirtualBox.(none)»)
+Commit 1 added with date 2024-10-09T12:00:00
+Username for 'https://github.com': ger1ch
+Password for 'https://ger1ch@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/ger1ch/vedenie-v-programm.git/'
